@@ -24,12 +24,3 @@ Le projet est organisé autour de trois principales questions et étapes d'impl�
 | Histogrammes de couleurs   | 78%                  | 70.3%                 | 0.47 s                   | 2.73 s                    |
 | Combinaison ResNet + HOG   | 86.7%                | 84.3%                 | 0.32 s                   | 0.62 s                    |
 
----
-
-## Installation
-
-Installez les dépendances requises, notamment `tensorflow` et `opencv`, et exécutez les scripts pour tester l'algorithme.
-
-## Auteur
-
-Projet réalisé par Marc Zhang et Clément Auclin dans le cadre du cours INF8770 - Technologies multimédias.
